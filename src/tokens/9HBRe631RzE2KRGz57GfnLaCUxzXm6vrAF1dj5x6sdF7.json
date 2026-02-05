@@ -1,1 +1,14 @@
-
+{
+  "chainId": 101,
+  "address": "9HBRe631RzE2KRGz57GfnLaCUxzXm6vrAF1dj5x6sdF7",
+  "symbol": "USDT",
+  "name": "USDT Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "tags": ["education"],
+  "extensions": {
+    "coingeckoId": "",
+    "website": "",
+    "twitter": ""
+  }
+}
